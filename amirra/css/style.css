@@ -1,0 +1,50 @@
+body { 
+background: Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+Linear-gradient(127deg, black, black 70.71%),
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+a{
+    color: aliceblue;
+    text-decoration:none;
+text-align: center;
+} 
+.granddiv{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+.left{
+    margin-left: 25%;
+}
+.coursestitre{
+    color: aliceblue;
+}
+.courses1{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url('https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel.png');
+    background-size: cover;
+    overflow:hidden;
+}
+.courses2{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url('https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel1.png');
+    background-size: cover;
+    overflow:hidden;
+}
+.courses3{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url('https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel2.png');
+    background-size: cover;
+    overflow:hidden;
+    }
